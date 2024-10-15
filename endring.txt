@@ -1,1 +1,3 @@
 Her er en endring i repositoriet mitt
+
+Her er en ny endring
